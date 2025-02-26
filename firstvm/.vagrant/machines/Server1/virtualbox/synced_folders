@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/data":{"guestpath":"/home/vagrant/data","hostpath":"C:/Users/Ionel/Desktop/WorkFolder/DevOps/vagrant-first-lab/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Ionel/Desktop/WorkFolder/DevOps/vagrant-first-lab/firstvm","disabled":false,"__vagrantfile":true}}}

@@ -1,0 +1,5 @@
+general purpose file for testing
+Source of inspiration:
+https://github.com/devopsjourney1/vagrant-labs
+
+Thanks!
